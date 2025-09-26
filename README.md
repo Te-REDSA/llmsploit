@@ -43,7 +43,7 @@ Ollama with a model (e.g. mistral, phi3, llama3)
 ollama pull mistral
 
 2. Clone and run
-git clone https://github.com/yourusername/llmsploit.git
+git clone https://github.com/Te-REDSA/llmsploit.git
 cd llmsploit
 python3 llmsploit.py
 
