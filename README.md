@@ -35,6 +35,10 @@ scan target 192.168.1.10 for open ports
   ```bash
   sudo apt install metasploit-framework
   ```
+  **Install Required Libraries**  
+  ```bash
+  pip3 install pymetasploit3
+  ```
 - **Start msfrpcd**  
   ```bash
   msfrpcd -U msf -P yourpassword -a 127.0.0.1
