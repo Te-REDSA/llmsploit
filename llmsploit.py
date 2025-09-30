@@ -1,6 +1,6 @@
 import json
 import os
-from metasploit.msfrpc import MsfRpcClient
+from pymetasploit3.msfrpc import MsfRpcClient
 import subprocess
 import readline
 from datetime import datetime
